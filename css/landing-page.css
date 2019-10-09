@@ -18,7 +18,9 @@ h6 {
   text-transform: uppercase;
   color: #1D2228;
 }
-
+.navbar-brand {
+   font-family: 'Anton', 'Helvetica Neue';
+}
 .features-icons .features-icons-item .features-icons-icon i, a {
    color: #FB8122;
    opacity: 1;
