@@ -128,8 +128,6 @@ header.masthead h1 {
 
 .call-to-action {
   position: relative;
-  background-color: #343a40;
-  background: url("../img/signup.jpg") no-repeat center center;
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
@@ -145,9 +143,9 @@ header.masthead h1 {
   opacity: 0.3;
 }
 
-.call-to-action h2 {
+/* .call-to-action h2 {
    color: #eee;
-}
+} */
 
 footer.footer {
   padding-top: 4rem;
