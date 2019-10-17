@@ -51,7 +51,7 @@ header .hbspt-form {
    max-width: 768px;
    margin: 0 auto;
 }
-.hubspot-link__container.sproket {
+.hubspot-link__container.sproket, .hbspt-form label {
    display: none;
 }
 header.masthead video {
