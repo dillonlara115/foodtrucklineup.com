@@ -45,6 +45,13 @@ header.masthead {
   overflow: hidden;
 }
 
+header .hbspt-form {
+   position: relative;
+   z-index: 100;
+   max-width: 768px;
+   margin: 0 auto;
+}
+
 header.masthead video {
    margin: auto;
    position: absolute;
