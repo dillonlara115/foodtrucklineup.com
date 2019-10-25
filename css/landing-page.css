@@ -96,8 +96,8 @@ header.masthead h1, #mc_embed_signup {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 12rem;
-    padding-bottom: 12rem;
+    padding-top: 20rem;
+    padding-bottom: 20rem;
   }
   header.masthead h1 {
     font-size: 3rem;
