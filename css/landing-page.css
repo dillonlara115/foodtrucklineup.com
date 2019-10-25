@@ -84,7 +84,7 @@ header.masthead .overlay {
   z-index: 10;
 }
 
-header.masthead h1 {
+header.masthead h1, #mc_embed_signup {
    position: relative;
    z-index: 12;
   font-size: 2rem;
