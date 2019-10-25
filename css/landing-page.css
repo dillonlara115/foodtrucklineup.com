@@ -163,9 +163,18 @@ header.masthead h1, #mc_embed_signup {
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
-  background: url('img/img-3.jpg') center / cover no-repeat;
+  background: url('../img/img-4.jpg') center / cover no-repeat;
 }
-
+.call-to-action:before {
+   content: '';
+  position: absolute;
+  background-color: #1D2228;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0.3;
+}
 .call-to-action .overlay {
   position: absolute;
   background-color: #1D2228;
