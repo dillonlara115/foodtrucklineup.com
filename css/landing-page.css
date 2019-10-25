@@ -111,6 +111,7 @@ header.masthead h1 {
 .showcase .showcase-img {
   min-height: 30rem;
   background-size: cover;
+  background-position: center;
 }
 
 @media (min-width: 768px) {
@@ -162,6 +163,7 @@ header.masthead h1 {
   background-size: cover;
   padding-top: 7rem;
   padding-bottom: 7rem;
+  background: url('img/img-3.jpg') center / cover no-repeat;
 }
 
 .call-to-action .overlay {
