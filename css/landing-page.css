@@ -22,6 +22,9 @@ h6 {
    .navbar {
       padding: .3rem 0;
    }
+   .navbar-brand {
+      margin-right: 0 !important;
+   }
 }
 .navbar-brand {
    font-family: 'Anton', 'Helvetica Neue';
