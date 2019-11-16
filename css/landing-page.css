@@ -18,6 +18,11 @@ h6 {
   text-transform: uppercase;
   color: #1D2228;
 }
+@media (max-width: 767px) {
+   .navbar {
+      padding: .3rem 0;
+   }
+}
 .navbar-brand {
    font-family: 'Anton', 'Helvetica Neue';
 }
