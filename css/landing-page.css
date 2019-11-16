@@ -130,16 +130,35 @@ header.masthead h1, #mc_embed_signup {
   background-position: center;
 }
 
+@media (max-width: 768px) {
+  .showcase .showcase-img {
+      min-height: 15rem;
+   }
+   .showcase .showcase-text {
+      padding: 1.3rem;
+   }
+}
+
 @media (min-width: 768px) {
   .showcase .showcase-text {
     padding: 7rem;
   }
+  .showcase .showcase-img {
+      min-height: 15rem;
+   }
 }
 
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
   background: #F6F6F8;
+}
+
+@media (max-width: 768px) {
+ .features-icons {
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+   }
 }
 
 .features-icons .features-icons-item {
