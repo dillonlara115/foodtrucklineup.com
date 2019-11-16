@@ -27,11 +27,17 @@ h6 {
    transition: 250ms ease;
 }
 
-a:hover, .btn-primary:hover {
+a:hover {
    color: #FB8122;
    opacity: .8;
 
 }
+
+.btn-primary:hover {
+   background: #FB8122;
+   opacity: .8;  
+}
+
 .btn-primary {
    background: #FB8122;
    border-color: #FB8122;
