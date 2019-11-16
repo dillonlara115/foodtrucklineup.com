@@ -37,7 +37,9 @@ a:hover {
    background: #FB8122;
    opacity: .8;  
 }
-
+#mc_embed_signup p {
+   font-size: 18px;
+}
 .btn-primary {
    background: #FB8122;
    border-color: #FB8122;
