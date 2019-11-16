@@ -168,9 +168,9 @@ header.masthead h1, #mc_embed_signup {
 
 .call-to-action {
   position: relative;
-  background-size: cover;
   padding: 10rem 1rem;
   background: url('../img/img-4.jpg') center / cover no-repeat;
+  background-attachment: fixed;
 }
 .call-to-action:before {
    content: '';
