@@ -27,7 +27,7 @@ h6 {
    transition: 250ms ease;
 }
 
-a:hover {
+a:hover, .btn-primary:hover {
    color: #FB8122;
    opacity: .8;
 
