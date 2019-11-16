@@ -159,6 +159,15 @@ header.masthead h1, #mc_embed_signup {
    padding-top: 2rem;
    padding-bottom: 2rem;
    }
+   .header-social {
+      text-align: right;
+   }
+    .header-social li {
+      margin-right: 0 !important;
+   }
+   h2 {
+      font-size: 1.75rem;
+   }
 }
 
 .features-icons .features-icons-item {
